@@ -16,7 +16,8 @@ main:
   #   url: /blog/
     
   - title: "CV"
-    url: /cv/
+    # put url to your CV pdf file here, in files/ folder
+    url: /files/cv-yinon-ml.pdf
     
   # - title: "Guide"
   #   url: /markdown/
