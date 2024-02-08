@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yinon Goldshtein"
   avatar           : "profile.png"
-  bio              : "M.Sc student @ Technion. Interested in computer vision, deep learning and personalized healthcare."
+  bio              : "M.Sc student @ Technion. Interested in Computer Vision, Self-Supervised Learning and Personalized Healthcare."
   location         : "Haifa, Israel"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : 
+  email            : yinong@cs.technion.ac.il
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "YinonGold"
   vine             :
   weibo            :
   xing             :
